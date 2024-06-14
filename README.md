@@ -2,13 +2,13 @@
 
 Brief description of backend project.
 
-## Technologies Used
+### Technologies Used
 Node.js
 Express.js
 MongoDB 
 dotenv for environment variables
 
-## Getting Started
+### Getting Started
 
 Node.js installed on pc.
 MongoDB server accessible.
@@ -16,10 +16,10 @@ Installation
 
 bash
 Copy code
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Salman4511/Report_App_Backend.git
 
-# Install dependencies
+### Install dependencies
 npm install
 Setup Environment Variables
 
@@ -30,7 +30,7 @@ PORT=3000
 MONGO_URI=mongodb://your_username:your_password@your_cluster_url/reports
 Run the Server
 
-# Start the server
+### Start the server
 npm start
 
 ### API Endpoints
